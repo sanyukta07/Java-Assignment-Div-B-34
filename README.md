@@ -11,6 +11,7 @@
 * Question 3:
 
 <img width="788" alt="image" src="https://user-images.githubusercontent.com/55028883/203331516-ce95da7f-2bd1-40df-b46b-5bb437004709.png">
+
 * Question 5A and 5B:
 
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/55028883/203331833-7ea7b34e-98da-49cd-abea-7f3d5017e665.png">
