@@ -14,7 +14,7 @@
 
 * Question 4:
 
-<img width="493" alt="image" src="https://user-images.githubusercontent.com/55028883/203360569-ca568620-7851-4768-ac7a-bd824e831cb3.png">
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/55028883/203520486-423f4baf-c681-4f26-b776-89fdd44b1cd6.png">
 
 
 * Question 5A and 5B:
